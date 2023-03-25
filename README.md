@@ -33,7 +33,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ![alt text](https://github.com/green307/Knyazev-12.02/blob/b3e96151642d5b689d638db8f23861d0c0938aec/no_pol.jpg)
 
-![alt text](https://github.com/green307/Knyazev-12.02/blob/b3e96151642d5b689d638db8f23861d0c0938aec/super-pols.jpg)
+![alt text]([https://github.com/green307/Knyazev-12.02/blob/c73df45af3f8ea2967b736396a84e048ebaa682b/super-pols1.jpg)
 
 ![alt text](https://github.com/green307/Knyazev-12.02/blob/b3e96151642d5b689d638db8f23861d0c0938aec/super-pols.jpg)
 
