@@ -37,11 +37,12 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ![alt text](https://github.com/green307/Knyazev-12.02/blob/b3e96151642d5b689d638db8f23861d0c0938aec/super-pols.jpg)
 
-![alt text](https://github.com/green307/Knyazev-12.02/blob/f72c62a098e1ba53be283668e0e683190044db10/diagrama.jpg)
-
 ![alt text](https://github.com/green307/Knyazev-12.02/blob/f72c62a098e1ba53be283668e0e683190044db10/damp_bazi_dannih.jpg)
 
+![alt text](https://github.com/green307/Knyazev-12.02/blob/f72c62a098e1ba53be283668e0e683190044db10/diagrama.jpg)
+
 ![alt text](https://github.com/green307/Knyazev-12.02/blob/f72c62a098e1ba53be283668e0e683190044db10/damp1.jpg)
+
 
 # Задание 2
 
